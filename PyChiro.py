@@ -1,3 +1,4 @@
+# ©2024, Francesco Roberto Dani
 import sys, os
 import cv2
 import math
